@@ -14,3 +14,30 @@ Simple Brute Force. You can use a queue and a seen array for each position of ea
 
 **Part 2:**
 Pretty simple DP. Instead of using a queue, just use a vector and go through all the positions from left to right of each design and, in the end, see how many different ways there are to create the design.
+
+## 2023:
+Coming Soon!
+
+## 2022:
+Coming Soon!
+
+## 2021:
+Coming Soon!
+
+## 2020:
+Coming Soon!
+
+## 2019:
+Coming Soon!
+
+## 2018:
+Coming Soon!
+
+## 2017:
+Coming Soon!
+
+## 2016:
+Coming Soon!
+
+## 2015:
+Coming Soon!
