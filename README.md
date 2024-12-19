@@ -1,5 +1,7 @@
 # My Advent of Code Solutions!
 ## 2024:
+### Day 1-17:
+Coming Soon!
 ### Day 18:
 **Part 1:**
 Just a simple BFS with a Seen array/map to see if you have gone to that location before.
