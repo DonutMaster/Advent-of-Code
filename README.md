@@ -5,7 +5,7 @@
 Just a simple BFS with a Seen array/map to see if you have gone to that location before.
 
 **Part 2:**
-Just do a BFS for each new location. My code does take around 10 seconds or more to finish (thought it would take too long, tried to see what's wrong, and that's why my rank is very low), but it doesn't take too long.
+Just do a BFS for each new location. My code does take around 10 seconds or more to finish, but it doesn't take too long.
 ### Day 19:
 **Part 1:**
 Simple Brute Force. You can use a queue and a seen array for each position of each string/design and see if there is a way to create that design.
