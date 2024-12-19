@@ -1,13 +1,19 @@
 # My Advent of Code Solutions!
 ## 2024:
-### Day 1-17:
+### Day 1:
+**Part 1:**
+You can sort the arrays (A: contains the numbers on the left, B: contains the numbers on the right) and find the difference between each position in A and B.
+
+**Part 2:**
+You can use a map to find out how many, of the number you are searching for, is in B. So, do that for each number in A. (Sorry for a confusing explanation!)
+### Day 2-17:
 Coming Soon!
 ### Day 18:
 **Part 1:**
-Just a simple BFS with a Seen array/map to see if you have gone to that location before.
+You can do a simple BFS with a seen array/map to see if you have gone to that location before.
 
 **Part 2:**
-Just do a BFS for each new location. My code does take around 10 seconds or more to finish, but it doesn't take too long.
+You can do a BFS for each new location. My code does take around 10 seconds or more to finish, but it doesn't take too long.
 ### Day 19:
 **Part 1:**
 Simple Brute Force. You can use a queue and a seen array for each position of each string/design and see if there is a way to create that design.
