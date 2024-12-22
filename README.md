@@ -20,7 +20,14 @@ Simple Brute Force. You can use a queue and a seen array for each position of ea
 
 **Part 2:**
 Pretty simple DP. Instead of using a queue, just use a vector and go through all the positions from left to right of each design and, in the end, see how many different ways there are to create the design.
+### Day 20-21:
+Coming Soon!
+### Day 22:
+**Part 1:**
+Simple Brute Force. You can just get the 2000th secret number for each secret number.
 
+**Part 2:**
+Simple Brute Force. You find every sequence of four changes in the secret moves and see which one gets you the most bananas. However, it does take a little bit (10-20 seconds).
 ## 2023:
 Coming Soon!
 
