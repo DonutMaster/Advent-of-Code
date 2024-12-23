@@ -28,6 +28,12 @@ Simple Brute Force. You can just get the 2000th secret number for each secret nu
 
 **Part 2:**
 Simple Brute Force. You find every sequence of four changes in the secret moves and see which one gets you the most bananas. However, it does take a little bit (10-20 seconds).
+### Day 23:
+**Part 1:**
+Simple Brute Force. You can try every three possible computers and see if they are connected and if one of them starts with a t.
+
+**Part 2:**
+I have no idea how to solve this problem, so I can't explain the solution (of course). I used Jonathan Paulson's code instead, so check that one out!
 ## 2023:
 Coming Soon!
 
